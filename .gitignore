@@ -6,6 +6,8 @@
 # Packages
 *.egg
 *.egg-info
+*.idea
+*.log
 dist
 build
 eggs
